@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [13/Aug/2020:17:55:49 +0200] "POST /steganohiding/RevealData HTTP/1.1" 200 31 http-bio-9090-exec-2 333
+0:0:0:0:0:0:0:1 - - [13/Aug/2020:18:05:52 +0200] "GET /steganohiding/RevealData HTTP/1.1" 405 1065 http-bio-9090-exec-5 4
+0:0:0:0:0:0:0:1 - - [13/Aug/2020:18:06:07 +0200] "GET /steganohiding/RevealData HTTP/1.1" 405 1065 http-bio-9090-exec-6 9
+0:0:0:0:0:0:0:1 - - [13/Aug/2020:18:06:25 +0200] "POST /steganohiding/RevealData HTTP/1.1" 200 23 http-bio-9090-exec-7 125
